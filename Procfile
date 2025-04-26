@@ -1,1 +1,1 @@
-worker: ./start.sh
+worker: python3 robo_escanteios.py
